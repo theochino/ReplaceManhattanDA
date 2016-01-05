@@ -1,6 +1,6 @@
 <P>
 	<A HREF="http://www.ted.com/talks/rodrigo_bijou_governments_don_t_understand_cyber_warfare_we_need_hackers">Rodrigo Bijou: Governments don't understand cyber warfare. We need hackers</A><BR>
-	<A HREF="https://www.washingtonpost.com/news/in-theory/wp/2015/12/15/5-things-tech-companies-dont-understand-about-encryption>5 ways tech companies distort the encryption debate</A><BR>
+	<A HREF="https://www.washingtonpost.com/news/in-theory/wp/2015/12/15/5-things-tech-companies-dont-understand-about-encryption">5 ways tech companies distort the encryption debate</A><BR>
 	<A HREF="http://www.wired.com/2015/12/juniper-networks-hidden-backdoors-show-the-risk-of-government-backdoors">Secret Code Found in Juniper's Firewalls Shows Risk of Government Backdoors</A><BR>
 	<A HREF="http://www.wired.com/2015/07/manhattan-da-iphone-crypto-foiled-cops-74-times">Wired Mag - Manhattan DA: iPhone Crypto Locked Out Cops 74 Times</A><BR>
 	<A HREF="https://www.whitehouse.gov/webform/share-your-thoughts-onstrong-encryption">Share Your Thoughts On Strong Encryption (White House Website)</A><BR>
